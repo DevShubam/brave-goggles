@@ -1,0 +1,8 @@
+! name: Alternate Reddit Frontends
+! description: Display results from Reddit frotnends, and not directly from reddit.com.
+! public: true
+! author: Shub
+
+$discard,site=reddit.com
+
+$boost,site=teddit.com
