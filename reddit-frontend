@@ -5,4 +5,5 @@
 
 $discard,site=reddit.com
 
-$boost,site=teddit.com
+$boost=2,site=teddit.com
+$boost=2,site=libreddit.spike.codes
